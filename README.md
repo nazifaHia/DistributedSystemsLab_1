@@ -1,6 +1,6 @@
 # Swagger Based Credentials Manager
 
-## Description
+## Description:
 This is a simple project which follows Component-Based Software Engineering Architecture. A reusable component is used in this project. The component is written to encrypt and decrypt string using HMACD5. This component an be used in any dotnet based application which have login system or any other sort of data management which needs encryption and decryption. As I have used this component to validate and store credentials (i.e username, password) for different sites in this project.
 
 As the component is created following COM+ model. So the component is a library project which is used in this project by adding the the dll reference of that library project.
